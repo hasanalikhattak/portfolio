@@ -16,11 +16,14 @@ Sciences for improving and enhancing Quality of life in Smart Urban Spaces espec
 domain through Knowledge management, predictive analysis, and visualization. He is an active Senior Member of IEEE, a 
 professional member of ACM, and a member of societies such as IEEE ComSoc, IEEE VTS, and Internet Society.
 
+#Current
 -Associate Professor - School of Electrical Engineering and Computer Science (2020 - present)
 National University of Sciences and Technology - Pakistan
 
+#Past
 -Assistant Professor - Computer Science (2016-2020)
 COMSATS University Islamabad - 44500, Pakistan.
 
+#Education
 -Ph.D. - Computer Engineering (Semantic Web of Things) (2010-2015)
 Politecnico di Bari, Bari - 71000, Italy.
