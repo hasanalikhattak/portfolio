@@ -1,4 +1,5 @@
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 remote_theme: yousinix/portfolYOU@v1.0.0
